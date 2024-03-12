@@ -1,0 +1,1 @@
+window.addEvent('domready',function(){var Dica=new Tips($$('.tips'),{className:'dica'});});
